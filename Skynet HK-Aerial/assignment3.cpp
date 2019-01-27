@@ -22,7 +22,7 @@ int main() {
 	//Is target found / destroyed 
 	bool isTargetFound = false;
 
-	cout << "Initializing Skynet HK-Aerial Software......" << endl;
+	cout << "Initializing Skynet HK-Aerial Software......" << endl; 
 
 	// This loop will run until the enemy is found
 	while (isTargetFound == false) {
